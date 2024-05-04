@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul>li {
+    color:blueviolet;
+    font-style: italic;
+}
+
+li {
+    color: blue;
+    font-style: oblique;
+}
+
+.ingredients {
+    background-color: blanchedalmond;
+}
+
+.makeing-procedure {
+    background-color: beige;
+}
