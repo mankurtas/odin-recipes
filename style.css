@@ -1,5 +1,24 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 5px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+
+.recipes-lists {
+    background-color: rgb(244, 248, 181);
+    margin: 5px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul>li {
@@ -14,8 +33,20 @@ li {
 
 .ingredients {
     background-color: blanchedalmond;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .makeing-procedure {
     background-color: beige;
+    border-style: dotted;
+    border: 5px black dotted;
+    padding-top: 5px;
+}
+
+.home {
+    display: inline;
+    margin-left: 5px;
+    text-align: right;
+    vertical-align: middle;
 }
